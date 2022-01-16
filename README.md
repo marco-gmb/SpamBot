@@ -7,7 +7,7 @@
 
 -pip install -r requirements.txt
 
--python3 SpamBot.py
+-py SpamBot.py
 
 # Video
 
