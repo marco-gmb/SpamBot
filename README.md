@@ -9,7 +9,5 @@
 
 -python3 SpamBot.py
 
-Hope you like it:)
-
 # Video
 
